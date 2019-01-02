@@ -6,15 +6,15 @@ author_profile: true
 
 ---
 
-**I am a sea-going physical oceanographer studying the large-scale circulation of the ocean.**
+**I am physical oceanographer and a computer scientist studying the large scale ocean dynamics.**
 
 ---
 
-I am a CS... 
+I am currently a Ph.D. student at ... 
 
 ---
 
-During my Ph.D. ...
-
+my focus is ...
 
 ---
+
