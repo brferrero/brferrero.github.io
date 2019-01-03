@@ -18,4 +18,8 @@
 <url>
 <loc>http://localhost:4000/resume/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/ferrero_cv.pdf</loc>
+<lastmod>2019-01-03T14:52:33-02:00</lastmod>
+</url>
 </urlset>

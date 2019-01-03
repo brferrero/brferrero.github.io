@@ -1,20 +1,12 @@
 ---
+layout: posts
+title: Contact
+permalink: /contact/
+---
 
-layout: collection
-description: "Physical Oceanographer"
-author_profile: true
+Hi! I am a Computer Scientist and Pysical Oceanographer interested on how global ocean dynamics affects the climate.
 
 ---
 
-**I am a sea-going physical oceanographer studying the large-scale circulation of the ocean.**
+I am currently a Ph.D. student at the [University of São Paulo](https://www5.usp.br/) ...
 
----
-
-I am a CS... 
-
----
-
-During my Ph.D. ...
-
-
----
