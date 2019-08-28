@@ -5,4 +5,4 @@ permalink: /resume/
 ---
 
 
-My [CV (.pdf)](/ferrero_cv.pdf/)
+[My CV](/ferrero_cv.pdf/)
